@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+h1 {
+  color: darkred;
+  font-family: cursive;
+  font-size: 300%;
+}
+h2 {
+  color: green;
+font-family: fantasy;
+font-size: 100%;
+}
+div{
+padding-left:30px ;
+color: black;
+}
